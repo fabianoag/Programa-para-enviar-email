@@ -23,7 +23,7 @@ definir:
 * O corpo da mensagem que foi criada separadamente, você pode definir se vai usar 
 HTML ou não em 'Mail.IsBodyHtml'.
 * E possível anexa arquivos.
-* E definir a autenticação SSL se a caso o e-mail utilizar este recusro.
+* E definir a autenticação SSL se a caso o e-mail utilizar este recurso.
 
 
 Este programa é bem simples com o objetivo de mostrar como trabalha com a referência acima. No corpo da mensagem
