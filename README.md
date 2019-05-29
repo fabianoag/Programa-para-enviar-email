@@ -27,7 +27,7 @@ HTML ou não em 'Mail.IsBodyHtml'.
 
 
 Este programa é bem simples com o objetivo de mostrar como trabalha com a referência acima. No corpo da mensagem
-tem uma estrutura formatada em HTML, uma tabela com a imagem para mostrar como a  mensagem qualquer tirada 
+tem uma estrutura formatada em HTML, uma tabela com a imagem para mostrar, com uma mensagem qualquer tirada 
 da internet para ver como fica depois de enviada.
 
 
